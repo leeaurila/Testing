@@ -5,7 +5,7 @@ module.exports = () => {
     // will most likley want to change designated
     // github organization / username
     // github.com/WHATEVER
-    var gitOrg = "elmsln";
+    var gitOrg = "DeepDiveTech";
     // project name
     // github.com/elmsln/WHATEVER - hax11ty here implies building against the repo itself to produce it's own docs :)
     var gitProject = "hax11ty";
